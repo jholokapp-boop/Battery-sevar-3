@@ -1,0 +1,8 @@
+{
+  "name": "Remix Battery-sevar-1",
+  "description": "Imported from GitHub: jholokapp-boop/Battery-sevar-1",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
